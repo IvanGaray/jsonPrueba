@@ -1,4 +1,4 @@
-[
+{"games":[
     {
         "id": 1001,
         "title": "Metal Gear Solid: Peace Walker",
@@ -35,4 +35,4 @@
         "stock": 5,
         "category":"PC"
     }
-]
+]}
